@@ -1,10 +1,10 @@
 import React from 'react'
 import Todolist from './component/Todolist'
 import { TaskProvider } from './context/TaskContext';
-import homes from './assets/homes.jpg'
-import tick from './assets/tick.jpeg'
-import add from './assets/add.png'
-import cap from './assets/cap.png'
+// import homes from './assets/homes.jpg'
+// import tick from './assets/tick.jpeg'
+// import add from './assets/add.png'
+// import cap from './assets/cap.png'
 
 
 function App() {
